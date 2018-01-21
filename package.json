@@ -1,0 +1,19 @@
+{
+  "name": "thegathering",
+  "version": "0.0.1",
+  "description": "New project for to replace The Gathering with a responsive site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wyorancher/theGathering.git"
+  },
+  "author": "Carolee Hornbuckle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wyorancher/theGathering/issues"
+  },
+  "homepage": "https://github.com/Wyorancher/theGathering#readme"
+}
